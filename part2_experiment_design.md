@@ -1,14 +1,14 @@
-Ultimate Technologies, Inc. Challenge - Experiment Design
+# Ultimate Technologies, Inc. Challenge - Experiment Design
 
 
-Scenario: 
+### Scenario: 
 
 The neighboring cities of Gotham and Metropolis have complementary circadian rhythms: on weekdays, Ultimate Gotham is most active at night, and Ultimate Metropolis is most active during the day. On weekends, there is reasonable activity in both cities.
 
 However, a toll bridge, with a two-way toll, between the two cities causes driver partners to tend to be exclusive to each city. The Ultimate managers of city operations for the two cities have proposed an experiment to encourage driver partners to be available in both cities, by reimbursing all toll costs.
 
 
-Metrics to evaluate:
+### Metrics to evaluate:
 
 1. Ratio of rides given outsite the city - to measure partner participation in this experiment
 Since partners tend to stay within their own cities, the number of rides given outside of the city is currently very low relative to all rides given by partners of that particular city. If partners are actually participating in this experiment, this ratio should see an increase.
@@ -17,7 +17,7 @@ Since partners tend to stay within their own cities, the number of rides given o
 If this experiment is successful, the increase in revenue from this change should be greater than the increase in cost from toll reimbursements and all other operational cost pertaining to the experiment.
 
 
-Data to collect:
+### Data to collect:
 
 - Rides - time, location, city, out-of-city ride indicator, partner, user, and ride cost
 - Reimbursements - time, toll direction, partner, and cost
@@ -25,7 +25,7 @@ Data to collect:
 - Revenue - revenue from service provided out-of-city are labeled
 
 
-Experiment summary:
+### Experiment summary:
 
 Each city will collect their own data. If any of the data above (except reimbursements) is not already available, then company operations will continue as is for another quarter, in order to collect all of this data to serve as a historic baseline, and the experiment will be postponed. If this data is already available, the experiment can begin immediately.
 
@@ -34,7 +34,7 @@ In this experiment, toll reimbursements will be offered to both cities at the sa
 A 1-proportion Z-test will be used to determine the significance of the change in the out-of-city rides ratio (metric 1) for each city and a 1-sample t-test will be used to determine the significance of the change in profit (metric 2) for each city, accounting for any growth the company might be experiencing at the time.
 
 
-Possible results:
+### Possible results:
 
 1. No significant increase in metric 1 - not enough participation by partners
 This immediately invalidates the results of the change in metric 2, whether or not it was significant. If the company still wishes to pursue the initiative despite this result, the experiment needs to be redesigned to incentivize participation and carried out for another quarter.
