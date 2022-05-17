@@ -15,7 +15,7 @@ This is a 3-part data analysis challenge using data from a fictional company - U
     - `avg_rating_by_driver` - the rider’s average rating over all of their trips
     - `avg_rating_of_driver` - the rider’s average rating of their drivers over all of their trips
     - `surge_pct` - the percent of trips taken with surge multiplier greater than 1
-    - `avg_surge` - The average surge multiplier over all of this user’s trips
+    - `avg_surge` - the average surge multiplier over all of this user’s trips
     - `trips_in_first_30_days` - the number of trips this user took in the first 30 days after signing up
     - `ultimate_black_user` - whether the user took an Ultimate Black in their first 30 days
     - `weekday_pct` - the percent of the user’s trips occurring during a weekday
