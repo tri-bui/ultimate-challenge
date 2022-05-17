@@ -5,7 +5,8 @@ This is a 3-part data analysis challenge using data from a fictional company - U
 
 ## Data
 
-
+1. `logins.json` - contains simulated timestamps of user logins in a particular geographic location
+2. `ultimate_data_challenge.json` - a sample dataset of a cohort of users who signed up for an Ultimate account in January 2014
 
 
 ## 1. Exploratory Data Analysis
