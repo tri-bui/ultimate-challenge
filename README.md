@@ -23,7 +23,7 @@ This is a 3-part data analysis challenge using simulated data from a fictional c
 
 ## 1. Exploratory Data Analysis
 
-
+User login counts are aggregated based on 15-minute time intervals to understand underlying patterns of the demand.
 
 
 ## 2. Experiment and Metrics Design
