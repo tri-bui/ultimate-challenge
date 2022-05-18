@@ -35,9 +35,9 @@ The neighboring cities of Gotham and Metropolis has complementary circadian rhyt
 However, a toll bridge, with a 2-way toll, between the 2 cities causes driver partners to tend to be exclusive to each city. The ultimate managers of city operations for the two cities have proposed an experiment to encourage driver partners to be available in both cities, by reimbursing all toll costs.
 1. What would be a key measure of success of this experiment in encouraging driver partners to serve both cities, and why?
 2. Design a practical experiment to compare the effectiveness of the proposed change in relation to the key measure of success.
-    a. How would the experiment be implemented?
-    b. What statistical test(s) would be conducted to verify the significance of the observation?
-    c. How would the results be interpreted and recommendations be provided to the city operations team (along with any caveats)?
+    - How would the experiment be implemented?
+    - What statistical test(s) would be conducted to verify the significance of the observation?
+    - How would the results be interpreted and recommendations be provided to the city operations team (along with any caveats)?
 
 
 ## 3. Predictive Modeling
