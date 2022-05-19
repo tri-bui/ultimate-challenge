@@ -33,7 +33,7 @@ The neighboring cities of Gotham and Metropolis has complementary circadian rhyt
 - On weekends, there is reasonable activity in both cities
 
 However, a toll bridge, with a 2-way toll, between the 2 cities causes driver partners to tend to be exclusive to each city. The ultimate managers of city operations for the two cities have proposed an experiment to encourage driver partners to be available in both cities, by reimbursing all toll costs.
-1. What would be a key measure of success of this experiment in encouraging driver partners to serve both cities, and why?
+1. What would be a key measure of success of this experiment in encouraging driver partners to serve both cities?
 2. Design a practical experiment to compare the effectiveness of the proposed change in relation to the key measure of success.
     - How would the experiment be implemented?
     - What statistical test(s) would be conducted to verify the significance of the observation?
@@ -42,4 +42,4 @@ However, a toll bridge, with a 2-way toll, between the 2 cities causes driver pa
 
 ## 3. Predictive Modeling
 
-Ultimate is interested in predicting rider retention. The user cohort data was pulled several months later and a user is considered retained if they were "active" (i.e. took a trip) in the last 30 days. This part focuses on understanding what factors are the best predictors for retention and offering suggestions to operationalize those insights to help Ultimate.
+Ultimate is interested in predicting rider retention. The user cohort data was pulled several months later and a user is considered retained if they were "active" (i.e. took a trip) in the last 30 days. This part focuses on modeling and understanding what factors are the best predictors for retention. Suggestions are offered to operationalize those insights to help Ultimate.
