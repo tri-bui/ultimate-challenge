@@ -42,3 +42,4 @@ However, a toll bridge, with a 2-way toll, between the 2 cities causes driver pa
 
 ## 3. Predictive Modeling
 
+Ultimate is interested in predicting rider retention. The user cohort data was pulled several months later and a user is considered retained if they were "active" (i.e. took a trip) in the last 30 days. This part focuses on understanding what factors are the best predictors for retention and offering suggestions to operationalize those insights to help Ultimate.
