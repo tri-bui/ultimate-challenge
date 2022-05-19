@@ -1,4 +1,4 @@
-# Ultimate Technologies, Inc. Challenge - Experiment Design
+# Ultimate Challenge - Experiment Design
 
 
 ### Scenario: 
