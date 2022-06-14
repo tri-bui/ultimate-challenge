@@ -10,19 +10,19 @@ However, a toll bridge, with a two-way toll, between the two cities causes drive
 
 ### Metrics to evaluate:
 
-1. Ratio of rides given outsite the city - to measure partner participation in this experiment
+1. `Ratio of rides given outsite the city` - to measure partner participation in this experiment
 Since partners tend to stay within their own cities, the number of rides given outside of the city is currently very low relative to all rides given by partners of that particular city. If partners are actually participating in this experiment, this ratio should see an increase.
 
-2. Profit or margin - to measure the effectiveness of this initiative
+2. `Profit or margin` - to measure the effectiveness of this initiative
 If this experiment is successful, the increase in revenue from this change should be greater than the increase in cost from toll reimbursements and all other operational costs pertaining to the experiment.
 
 
 ### Data to collect:
 
-- Rides - time, location, city, out-of-city ride indicator, partner, user, and ride cost
-- Reimbursements - time, toll direction, partner, and cost
-- All other costs - costs from the experiment are labeled
-- Revenue - revenue from service provided out-of-city are labeled
+- `Rides` - time, location, city, out-of-city ride indicator, partner, user, and ride cost
+- `Reimbursements` - time, toll direction, partner, and cost
+- `All other costs` - costs from the experiment are labeled
+- `Revenue` - revenue from service provided out-of-city are labeled
 
 
 ### Experiment summary:
