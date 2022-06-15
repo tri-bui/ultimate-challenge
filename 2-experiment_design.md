@@ -45,4 +45,7 @@ In this case, there was enough participation to validate the results of the chan
 3. Significant increase in both metrics 1 and 2 - initiative is effective
 Statistically, we would be able to say that this initiative was able to increase quarterly profits. Even though it was successful, there is still room for improvement. Introducing cost-effective incentives to drive participation may increase profits even more, so this is something that can be implemented in the next experiment.
 
+
+### Next steps:
+
 Since each city collected their own data, they would have their own result to this experiment. We would know how effective the initiative was in each city and take measures accordingly.
