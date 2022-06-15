@@ -31,7 +31,7 @@ Each city will collect their own data. If any of the data above (except reimburs
 
 In this experiment, toll reimbursements will be offered to both cities at the same time. It may not be very useful to deploy it in 1 city at a time as the 2 cities have complementary circadian rhythms, which means they cannot act as each other's control group. Partners will be notified ahead of time of this new offer and those who have not used it will be periodically reminded to ensure all partners are aware. The data mentioned above will be collected for a period of 1 quarter and evaluated against historic data, using the 2 metrics described above. During the length of this experiment, no other major change is to be implemented.
 
-A 1-proportion Z-test will be used to determine the significance of the change in the out-of-city rides ratio (metric 1) for each city and a 1-sample t-test will be used to determine the significance of the change in profit (metric 2) for each city, accounting for any growth the company might be experiencing at the time.
+A 1-proportion Z-test will be used to determine the significance of the change in the out-of-city rides ratio (metric 1) for each city and a 1-sample t-test will be used to determine the significance of the change in profit (metric 2) for each city, accounting for any growth the company might be experiencing at the time. In both of these tests, the threshold for significance will be increased for higher confidence that this initiative is worth implementing.
 
 
 ### Possible results:
